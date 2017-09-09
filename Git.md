@@ -1,0 +1,5 @@
+* [Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+* [Docs](https://git-scm.com/docs)
+* [Deploy with Git](https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps)
+* [GitHub Cheat Sheet]()
+* [Move files to new repo, keep history](http://zzamboni.org/post/moving-files-between-git-repositories-preserving-history/)

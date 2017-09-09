@@ -1,0 +1,7 @@
+* [Redirect to HTTPS](https://www.sslshopper.com/apache-redirect-http-to-https.html)
+* [Downgrade PHP](http://askubuntu.com/questions/761713/how-can-i-downgrade-from-php-7-to-php-5-6-on-ubuntu-16-04)
+* [Add trailing slash for SEO](http://enarion.net/web/htaccess/trailing-slash/)
+* [Redirect and keep POST data](http://stackoverflow.com/questions/13628831/apache-301-redirect-and-preserving-post-data)
+* [Setup on Mac](http://www.websightdesigns.com/posts/view/how-to-set-up-a-local-web-server-with-homebrew-on-mac-os-x-10-9)
+* [Permissions of path](https://stackoverflow.com/questions/29474238/403-forbidden-when-permission-are-777)
+* []()
